@@ -8,7 +8,7 @@ The 2 items above are not owned by me, They go to there respected owners
 */
 
 :root{
-    --background: url('../images/zeb.gif');
+    --background: url('http://127.0.0.1/zeb.gif');
     --activetext-colour: white;
 
     --primary1-colour: red;
